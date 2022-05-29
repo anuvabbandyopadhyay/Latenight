@@ -40,5 +40,5 @@ later..
 It would be fantastic if you could put on a playlist or song that could help you knock out a problem set or memorize all those dates for your history final, wouldn’t it?
 
 
-##WISH YOU GUYS BEST OF LUCK FOR YOUR EXAMS ! 👍👍👍
+## 🐬 WISH YOU GUYS BEST OF LUCK FOR YOUR EXAMS ! 👍👍👍
 
