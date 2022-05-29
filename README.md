@@ -10,7 +10,7 @@ Here students can find links of various academical websites ,Educational youtube
 
 
 # Sleep Clock
-## EAT STUDY SLEEP REPEAT
+###### "EAT STUDY SLEEP REPEAT"
 Studying fopr an exam required discipline.FOr any average students, there performance depends on how they have 
 # Study TO Do list
 To do plan things out is the best .That 's why the to do list.Here student canm write up what they wanna do while they are study as well as keep a track on them.This helps in doinmg systematic and effecient studying.
@@ -21,8 +21,16 @@ Thousands of students have been managing their study time with the Pomodoro Tech
 The Pomodoro Technique works like this:
 
 1.Decide what you want to accomplish and estimate how long you will study for. Then break your work into pomodoros.
+
 2.Set a timer for 25 minutes, and start studying. (There are many pomodoro apps available for your phone, or follow along with someones study session on YouTube).
-3.Minimize your distractions during the pomodoro interval. If a thought pops into your head write it down. If a friend calls let them know you will call them back later.. 
+
+3.Minimize your distractions during the pomodoro interval. If a thought pops into your head write it down. If a friend calls let them know you will call them back 
+later.. 
+
 4.After 25 minutes take a short 5-10 minute break. Grab a coffee, go for a walk, call back your friend, or do something else relaxing.
+
 5.Repeat. After 4 pomodoros take a longer break for 20-30 minutes.
+
 # Music Lounge for Studying
+
+It would be fantastic if you could put on a playlist or song that could help you knock out a problem set or memorize all those dates for your history final, wouldn’t it?
