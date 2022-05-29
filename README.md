@@ -2,18 +2,22 @@
 ## HELLO ! 🐬
 We have made a Website to help students in there upcoming exams.Yes, the time period of a students life where they are stressed up more than they would if they are gonna likely die.
 
-A fun Fact : We have goen through this phase in our lives.
+A fun Fact : We have gone through this phase in our lives.
 The website consits of tips and tricks on how the student would be able to ace in their exams.
-## There also exist 5 differnet helpful webpages that can be very useful for the students
+## There also exist 5 different helpful webpages that can be very useful for the students
 # Resources 
 Here students can find links of various academical websites ,Educational youtube channels as well as useful educational webpages.This not only saves the time of the study to learn on a particular topic but also gives them access to all the teaching and tutoring they require.
 
 
 # Sleep Clock
 ###### "EAT STUDY SLEEP REPEAT"
-Studying fopr an exam required discipline.FOr any average students, there performance depends on how they have 
+Studying for an exam requires discipline.Far any average students, there performance depends on how they have taken their sleep.This sleep clocks tells us how much we should sleep as well as what time we need to wake up .Yes, all in one place !
+
+Here you get the resources to reduce the stress of the upcoming exam,you will get educationl websites from where you can read and pass the exam easily ;) ,
+and if you want a study enviroment, then the matter of study music is different , you will also get study music here for relax your mind and concentrate on study :) ,
+and you will also get academic websites to read,so that you will be in a better place in the upco
 # Study TO Do list
-To do plan things out is the best .That 's why the to do list.Here student canm write up what they wanna do while they are study as well as keep a track on them.This helps in doinmg systematic and effecient studying.
+To plan things out is the best .That 's why the to do list.Here student canm write up what they wanna do while they are study as well as keep a track on them.This helps in doinmg systematic and effecient studying.
 # Pomodoro
 If you find yourself struggling to finish assignments before the deadline or getting to exams wishing you had found the time to study more you are not alone. Many students struggle with managing time for their studies, and in today’s interconnected busy world it is no wonder.
 
@@ -34,3 +38,7 @@ later..
 # Music Lounge for Studying
 
 It would be fantastic if you could put on a playlist or song that could help you knock out a problem set or memorize all those dates for your history final, wouldn’t it?
+
+
+##WISH YOU GUYS BEST OF LUCK FOR YOUR EXAMS ! 👍👍👍
+
